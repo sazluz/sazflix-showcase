@@ -70,7 +70,7 @@ This project was built to simulate a **real-world production streaming service**
 ## Screenshots
 
 ### Home Page
-![Home Page](Sazflix.png)
+![Home Page](saz-flix-home.png)
 
 ### Movie Details ( I used the Movie The Shawshank Redemption )
 ![Details Page](The-Shawshank-Redemption-Sazflix.png)
